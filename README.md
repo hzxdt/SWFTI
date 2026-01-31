@@ -40,5 +40,5 @@ You can use the following commands.
 python Feature_npz.py --FR_target ArcFace --path_origin_images <origin_images> --path_Reconstructing_images <Reconstructing_images> --save_suffix <save_dir>
 ```
 
-## Installation：SWFTI-pretrained models
+## SWFTI-pretrained models
 Link: https://pan.baidu.com/s/1jQc2fy6-5ingfTFGinVF6g?pwd=mbyg 提取码: mbyg
